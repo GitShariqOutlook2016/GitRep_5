@@ -2,5 +2,10 @@ Hi This is Newly Created File.
 
 First Modification to check difference.
 
+<<<<<<< HEAD
 Dev Branch Created.
 
+=======
+
+Changes to test undoing without commit, Apple, Banana.
+>>>>>>> 0d7b1a609c5dbacfc5d9088569fdeb4005824b03
